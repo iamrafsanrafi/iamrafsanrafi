@@ -1,5 +1,5 @@
 <!-- Intro section with an animated GIF -->
-## <samp>&gt; Hey, there! I’m a —<br>&nbsp;&nbsp;<a href="https://www.rafsanrafi.com/">*Computer Programmer...*</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></samp>
+## <samp>&gt; Hey, there! I’m a —<br>&nbsp;&nbsp;<a href="https://www.rafsanrafi.com/">*Computer Programmer*</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></samp>
 
 <!-- Badge section — shows skills/technologies -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
