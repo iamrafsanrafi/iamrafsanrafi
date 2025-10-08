@@ -30,5 +30,9 @@
 - I relish seeing `error` messages
 - Reach me: hm.rafsanrafi@gmail.com
 
+<!-- Fun fact section -->
+#### Fun Fact:
+- She calls me **Engineer Cat...^_^**
+
 
 <!-- THE END -->
