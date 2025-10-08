@@ -1,5 +1,5 @@
 <!-- Intro section with an animated GIF -->
-## <samp>&gt; Hey, there! I’m a —<br>&nbsp;&nbsp;<a href="https://www.rafsanrafi.com/">*Computer Programmer*</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></samp>
+## <samp>&gt; Hey, there! I’m a —<br>&nbsp;&nbsp;<a href="https://www.rafsanrafi.com/">*Computer Programmer*</a> <img src="./assets/hello.gif" alt="hello.gif" width="25" height="25"></samp>
 
 <!-- Badge section — shows skills/technologies -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -13,31 +13,22 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 <!-- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) -->
 
+<!-- I'm coding...😊 -->
+<img src="./assets/rafsan-rafi-coding.gif" alt="rafsan-rafi-coding.gif" align="right" width="408" height="318">
+
+<!-- Code snippet section -->
+:computer:&nbsp;&nbsp;Most used line of code: `console.log("Hello, world!");`
+
+<!-- Notes section -->
+#### Quick Notes:
+- A proud Bangladeshi  <img src="./assets/bangladesh.png" alt="BD" width="18">
 - Working on something cool
-- Learning **DSA**
+- Learning - *DSA*
+- I enjoy sharing knowledge
+- I’d love to collaborate
+- Ask me about Frontend
+- I relish seeing `error` messages
+- Reach me: hm.rafsanrafi@gmail.com
 
 
-
-
-
-<!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25" height="25"/> -->
-
-
-
-
-<!-- ## Hi there 👋 -->
-
-<!--
-**iamrafsanrafi/iamrafsanrafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- THE END -->
