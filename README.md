@@ -28,7 +28,7 @@
 - I’d love to collaborate
 - Ask me about Frontend
 - I relish seeing `error` messages
-- Reach me: hm.rafsanrafi@gmail.com
+- Reach me: [hm.rafsanrafi@gmail.com](mailto:hm.rafsanrafi@gmail.com)
 
 <!-- Fun fact section -->
 #### Fun Fact:
