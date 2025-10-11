@@ -34,5 +34,11 @@
 #### Fun Fact:
 - She calls me **Engineer Cat...^_^**
 
+<br>
+
+<!-- Language stats section -->
+*More codes, more possibilities —*<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrafsanrafi&layout=compact&theme=transparent&hide_border=false&langs_count=10)
+
 
 <!-- THE END -->
