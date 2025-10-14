@@ -1,5 +1,5 @@
 <!-- Intro section with an animated GIF -->
-## <samp>&gt; Hey, there! I’m a —<br>&nbsp;&nbsp;<a href="https://www.rafsanrafi.com/">*Computer Programmer*</a> <img src="./assets/hello.gif" alt="hello.gif" width="25" height="25"></samp>
+## <samp>&gt; Hey, there! I’m a —<br>&nbsp;&nbsp;<a href="https://www.rafsanrafi.com/">*Computer Programmer*</a> <img src="./assets/hello.gif" alt="From Rafsan Rafi — Hello!!" width="25" height="25"></samp>
 
 <!-- Badge section — shows skills/technologies -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -14,14 +14,14 @@
 <!-- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) -->
 
 <!-- I'm coding...😊 -->
-<img src="./assets/rafsan-rafi-coding.gif" alt="rafsan-rafi-coding.gif" align="right" width="408" height="318">
+<img src="./assets/rafsan-rafi-coding.gif" alt="I am (Rafsan Rafi) coding~" align="right" width="408" height="318">
 
 <!-- Code snippet section -->
 :computer:&nbsp;&nbsp;Most used line of code: `console.log("Hello, world!");`
 
 <!-- Notes section -->
 #### Quick Notes:
-- A proud Bangladeshi  <img src="./assets/bangladesh.png" alt="BD" width="18">
+- A proud Bangladeshi  <img src="./assets/bangladesh.png" alt="Rafsan Rafi's country — BD" width="18">
 - Working on something cool
 - Learning - *DSA*
 - I enjoy sharing knowledge
