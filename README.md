@@ -37,8 +37,13 @@
 <br>
 
 <!-- Language stats section -->
-*More codes, more possibilities —*<br>
+*More codes, more possibilities:*<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrafsanrafi&layout=compact&theme=transparent&hide_border=false&langs_count=10)
+
+<br>
+
+<!-- Signature section -->
+<p align="right"><em>— Rafsan Rafi</em></p>
 
 
 <!-- THE END -->
