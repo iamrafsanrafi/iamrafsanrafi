@@ -17,7 +17,7 @@
 <img src="./assets/rafsan-rafi-coding.gif" alt="I am (Rafsan Rafi) coding~" align="right" width="408" height="318">
 
 <!-- Code snippet section -->
-:computer:&nbsp;&nbsp;Most used line of code: `console.log("Hello, world!");`
+:computer:&nbsp;&nbsp;Most used line of code: `console.log('Hello, world!');`
 
 <!-- Notes section -->
 #### Quick Notes:
