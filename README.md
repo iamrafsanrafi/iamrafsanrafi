@@ -43,7 +43,7 @@
 <br>
 
 <!-- Signature section -->
-<p align="right"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=14&duration=3000&pause=500&color=808080&vCenter=true&width=86&height=14&lines=%E2%80%94+Rafsan+Rafi" alt="Typing SVG" /></p>
+<p align="right"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=14&duration=3000&pause=500&color=808080&vCenter=true&width=86&height=14&lines=%E2%80%94+Rafsan+Rafi" alt="— Rafsan Rafi" /></p>
 
 
 <!-- THE END -->
